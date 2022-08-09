@@ -6,6 +6,8 @@ Se trata de un proyecto simple para practicar React, Javascript, HTML y CSS.
 
 #50 days of code 💻
 
+<br></br>
+
 
 Para probarlo:
 1. Descargá el repo
