@@ -2,6 +2,7 @@
 
 Se trata de un proyecto simple para practicar React, Javascript, HTML y CSS.
 
+<br></br>
 
 #50 days of code 💻
 
