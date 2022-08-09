@@ -15,19 +15,19 @@ function App() {
   
   return (
     <div className="App">
-      <div className="panel active" id="panel" onClick={handleClick}>
+      <div className="panel active" onClick={handleClick}>
         <h3 className="text">Explore The Islands</h3>
       </div>
-      <div className="panel1"  id="panel" onClick={handleClick}>
+      <div className="panel1"  onClick={handleClick}>
         <h3 className="text"> Waterfall </h3>
       </div>
-      <div className="panel2"  id="panel" onClick={handleClick}>
+      <div className="panel2"  onClick={handleClick}>
         <h3 className="text">Sunny Beach</h3>
       </div>
-      <div className="panel3 "  id="panel" onClick={handleClick}>
+      <div className="panel3 "  onClick={handleClick}>
         <h3 className="text">Sunrise</h3>
       </div>
-      <div className="panel4"  id="panel" onClick={handleClick}>
+      <div className="panel4"  onClick={handleClick}>
         <h3 className="text">Sunset</h3>
       </div>
 
