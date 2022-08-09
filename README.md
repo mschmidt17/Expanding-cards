@@ -8,3 +8,7 @@ Para probarlo:
 2. En la consola: 'npm install'
 3. En la consola: 'npm start'
 
+
+
+https://user-images.githubusercontent.com/99290382/183671544-ad7ecbe1-238c-44bb-bf82-8c588148f92a.mp4
+
